@@ -1,0 +1,5 @@
+{
+  "name": "NeuPool",
+  "description": "A smart pool maintenance assistant that logs chemical readings, manages inventory, and uses AI to calculate precise chemical adjustments for balanced water.",
+  "requestFramePermissions": []
+}
